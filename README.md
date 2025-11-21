@@ -1,10 +1,10 @@
 <div align="center" width="50">
 
 <img src=<a href="https://github.com/mabdelkarem72">
-  <img src="https://raw.githubusercontent.com/mabdelkarem72/mabdelkarem72/main/Mahmoud Abd Elkarem.gif" alt="Hello Coders" width="20%">
+  <img src="https://raw.githubusercontent.com/mabdelkarem72/mabdelkarem72/main/Mahmoud Abd Elkarem.gif" alt="Hello Coders" width="60%">
 </a>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
+
 
 <details>
 <p><strong><summary> Busy coding & vibing to: </summary></strong></p>
