@@ -1,9 +1,7 @@
 <div align="center" width="50">
 
 <img src=<a href="https://github.com/mabdelkarem72">
-  <img src="https://raw.githubusercontent.com/mabdelkarem72/mabdelkarem72/main/Mahmoud Abd Elkarem.gif" alt="Hello Coders" width="60%">
-</a>
-
+ 
 
 
 <details>
