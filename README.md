@@ -36,7 +36,6 @@ Feel free to connect and collaborate!
 
 <hr>
 
-# 🛠️ Tools & Technologies
 
 
 ## 🌐 Socials:
